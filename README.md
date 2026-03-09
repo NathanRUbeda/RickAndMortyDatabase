@@ -2,7 +2,7 @@
 
 A SwiftUI iOS application that displays characters from the Rick and Morty universe, with search, status filtering, and character detail views, all powered by the [Rick and Morty API](https://rickandmortyapi.com).
 
-| List | Detail View | Search |
+| List | Search |  Detail View |
 | --- | --- | --- |
 | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-09 at 00 47 17" src="https://github.com/user-attachments/assets/92c9e092-bfb5-48fb-b0ac-e0e704bb9aa1" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-09 at 00 47 27" src="https://github.com/user-attachments/assets/f362de47-ba4a-4d74-8f5e-f1d5fccbd13e" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2026-03-09 at 00 47 39" src="https://github.com/user-attachments/assets/ed522db8-2138-4325-b880-4159d4b739b1" /> | 
 
